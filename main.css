@@ -1,0 +1,11 @@
+body{
+    /* background-color: red; */
+}
+
+div{
+    width: 500px;
+    height: 700px;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    /* text-align: center; */
+}
